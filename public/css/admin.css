@@ -1,0 +1,96 @@
+body {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #000;
+  color: #fff;
+}
+
+.navbar-laravel {
+  background-color: #343a40;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.navbar-brand {
+  color: #fff !important;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.table-dark {
+  color: #fff;
+}
+
+.list-group-item {
+  border-color: #fff;
+  background-color: #000;
+}
+
+.login-box {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.login-header {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.login-body {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+ul {
+	width: 200px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: #eeeeee;
+}
+li a {
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	color: #000000;
+}
+li {
+	text-align: center;
+}
+li:last-child {
+	border-bottom: none;
+}
+li .profile {
+	color: #ffffff;
+	background-color: #da3c41;
+}
+li a:hover:not(.profile) {
+	color: #ffffff;
+	background-color: #1b2538;
+}
+
+ul {
+	width: 200px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: #eeeeee;
+}
+li a {
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	color: #000000;
+}
+li {
+	text-align: center;
+}
+li:last-child {
+	border-bottom: none;
+}
+li .news {
+	color: #ffffff;
+	background-color: #da3c41;
+}
+li a:hover:not(.news) {
+	color: #ffffff;
+	background-color: #1b2538;
+}
