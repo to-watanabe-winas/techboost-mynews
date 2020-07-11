@@ -3,8 +3,10 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-use App\Review;
 
+/*
+* 商品
+*/
 class Product extends Model
 {
     public function reviews()

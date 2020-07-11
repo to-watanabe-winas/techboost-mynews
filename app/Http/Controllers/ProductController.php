@@ -6,6 +6,9 @@ use App\Product;
 use App\Review;
 use Illuminate\Http\Request;
 
+/*
+* 商品コントローラ
+*/
 class ProductController extends Controller
 {
     public function index(Request $request)
